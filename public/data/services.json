@@ -630,6 +630,50 @@
         "q": "How do you keep heavy mirrors and artwork from pulling out of the wall?",
         "a": "We locate studs and anchor into them whenever possible, and use appropriately rated heavy-duty anchors when a stud is not in the right spot. Every hanging is matched to the weight of the piece and the type of wall, so it stays put."
       }
+    },
+    {
+      "name": "Holiday Lighting Installation & Removal",
+      "slug": "holiday-lighting",
+      "icon": "fa-star",
+      "category": "maintenance",
+      "formService": "Maintenance & Cleaning",
+      "tagline": "A turnkey seasonal service — we design, install, and take down your holiday lighting so you can skip the ladder work entirely and enjoy the season.",
+      "intro": [
+        "A turnkey seasonal service that lets homeowners skip the ladder work. We design, install, and take down holiday lighting — rooflines, gutters, trees, porches, and walkways — so your home looks festive while you stay safely on the ground.",
+        "You choose the schedule: we put the display up before the season, run a mid-season tune-up if a strand sags or a bulb goes out, and take everything down after the holidays, packing it neatly for next year. Ladders, clips, and cold-weather ladder work are our job, not yours."
+      ],
+      "features": [
+        "Design & install: rooflines, gutters, trees, and porch columns",
+        "Your supplied lights and decor, or sourcing at cost",
+        "Timers, cords, and clips fitted safely — no damage to trim",
+        "Mid-season tune-up & scheduled takedown after the holidays"
+      ],
+      "faq": {
+        "q": "Do you install the lights I already own, or supply them?",
+        "a": "Either. Most homeowners supply their own lights and decor and we install them with clips and timers we bring; we can also pick up new strands at cost plus our 20% supply sourcing fee. Book early — the calendar fills as the season approaches."
+      }
+    },
+    {
+      "name": "Winter Storm Emergency Repairs",
+      "slug": "winter-storm-repairs",
+      "icon": "fa-cloud-showers-heavy",
+      "category": "exterior",
+      "formService": "Priority / After-Hours Service",
+      "tagline": "Quick-response repairs when a winter storm hits: wind damage, ice dam mitigation, frozen pipe insulation, and temporary door/window sealing to keep your home dry and warm.",
+      "intro": [
+        "Quick-response help when a winter storm hits. We stabilize the damage fast — loose or wind-damaged siding, gutters torn down by ice, and door and window openings sealed temporarily — so your home stays dry and warm until the permanent repair.",
+        "Ice dam mitigation and frozen pipe insulation protect your home from the two most expensive winter failures. If a repair is urgent, after-hours emergency service is available 7 days a week for urgent repairs that affect home safety or security ($155 first hour / $100 per hour after); scheduled storm repairs are billed at the standard service-call rate."
+      ],
+      "features": [
+        "Wind damage: loose siding, torn soffits & gutters re-secured",
+        "Ice dam mitigation: snow and ice removal at the roof edge",
+        "Frozen pipe insulation: exposed-line wrap & shut-off checks",
+        "Temporary door/window sealing: board-up, plastic & draft sealing"
+      ],
+      "faq": {
+        "q": "How fast can you respond after a winter storm?",
+        "a": "Call (248) 385-3432 for priority dispatch 7 days a week. We stabilize the damage first — sealing openings, re-securing loose materials, and protecting exposed pipes — then quote the permanent repair. Roof framing and full re-roofing are coordinated with licensed roofing partners."
+      }
     }
   ]
 }
